@@ -1,18 +1,14 @@
-# SpendSmart - Modern Expense Tracker Application
+# SATURN - Modern Expense Tracker Application
 
-![SpendSmart Banner](https://img.youtube.com/vi/xubgkf-Q8_A/maxresdefault.jpg)
+
 
 ## 🌟 Overview
 
-SpendSmart is a comprehensive expense tracking solution designed to help users manage their finances with ease. This full-stack web application combines beautiful UI with powerful functionality to provide an intuitive financial management experience.
+saturn is a comprehensive expense tracking solution designed to help users manage their finances with ease. This full-stack web application combines beautiful UI with powerful functionality to provide an intuitive financial management experience.
 
 Whether you're planning a budget for the month, tracking daily expenses, or analyzing your spending habits, SpendSmart has got you covered.
 
-## 🚀 Live Demo
 
-Experience the application live: [SpendSmart App](https://spend-smart-two.vercel.app/)
-
-Watch a video demonstration: [Demo Video](https://www.youtube.com/watch?v=xubgkf-Q8_A)
 
 ## ✨ Key Features
 
